@@ -7,7 +7,7 @@
 
 * Run `node index.js`
 
-## Modulo Sum 2 Elements
+## Sum 2 Elements
 ![sum2Elements](sum2Elements/sum2Elements.png)
 
 ## Run Project
